@@ -1,0 +1,21 @@
+1. What is a database?
+
+A database is an organised, structured collection of stored data. In order to manage a databse, we use a database management software system or 'DBMS'. 
+You connect to a DBMS and give it instructions for querying and modifying data, and the DBMS will execute our instructions and send results back.
+
+2. Relational VS Non-relational(NoSQL)
+
+Relational Database 
+- data is stored in tables that are linked to each other using relationships
+- SQL is the langauge used to work with relational database management systems
+- Examples include Oracle, MySQL, Microsoft SQL Server
+
+Non-Relational Databases
+- no data is stored in tables 
+- doesn't understand SQL
+
+3. What is SQL?
+
+SQL (pronounced “ess-que-el”) stands for Structured Query Language. SQL is used to communicate with a database. It is the standard language for relational database management systems. 
+SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database.
+
